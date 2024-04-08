@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fx.foray@gmail.com
+	name = FRANCOIS-XAVIER FORAY
